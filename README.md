@@ -1,17 +1,24 @@
 # 🔍 Scanner de Portas com Python
 
-Este é um script simples de scanner de portas desenvolvido em Python, com fins educacionais voltados para cibersegurança. Ele permite verificar se portas comuns estão abertas ou fechadas em um IP específico.
+Este é um script simples de scanner de portas desenvolvido em Python, com fins educacionais voltados para cibersegurança. Ele permite verificar se portas comuns estão abertas ou fechadas em um IP especificado.
+
+---
+
+## 📦 Requisitos
+
+- Python 3.x instalado
 
 ---
 
 ## 🚀 Como usar
 
 1. Clone o repositório ou baixe o arquivo `scanner.py`
-2. Execute o script com Python 3:
+2. Abra o terminal e navegue até o diretório onde está o arquivo.
+3. Execute o script com Python 3:
    ```bash
    python scanner.py
    ```
-3. Digite o IP desejado quando solicitado
+4. Digite o IP desejado quando solicitado
 
 ---
 
@@ -57,4 +64,3 @@ Este projeto é apenas para fins educacionais. Não utilize este script para esc
 **Izolda Katia**  
 Apaixonada por tecnologia, cibersegurança e cuidado com animais.  
 [GitHub](https://github.com/izolda-cyber)
-```
